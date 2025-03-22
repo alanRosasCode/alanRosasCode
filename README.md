@@ -1,6 +1,6 @@
 ### ¡Hola, soy Alan! 👨‍💻🚜
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tractor_in_a_field.jpg" width="300" alt="Tractor" align="right" />
+<img src="[https://upload.wikimedia.org/wikipedia/commons/7/7e/Tractor_in_a_field.jpg](https://images.pexels.com/photos/2933243/pexels-photo-2933243.jpeg?auto=compress&cs=tinysrgb&w=600)" width="300" alt="Tractor" align="right" />
 
 Soy un **ingeniero en sistemas computacionales** apasionado por el **software libre**, la **ciberseguridad** y el desarrollo de aplicaciones que faciliten mi día a día. 
 
