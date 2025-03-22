@@ -1,6 +1,5 @@
 ### ¡Hola, soy Alan! 👨‍💻🚜
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ftractor_6678123&psig=AOvVaw0N2QdmfV5eS3-iv3Suh1Ky&ust=1742688527481000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCOg-eynIwDFQAAAAAdAAAAABAE" width="300" alt="Tractor" align="right" />
 
 Soy un **ingeniero en sistemas computacionales** apasionado por el **software libre**, la **ciberseguridad** y el desarrollo de aplicaciones que faciliten mi día a día. 
 
