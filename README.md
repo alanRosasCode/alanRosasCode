@@ -1,5 +1,6 @@
 ### ¡Hola, soy Alan! 👨‍💻🚜
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tractor_in_a_field.jpg" width="300" alt="Tractor" align="right" />
 
 Soy un **ingeniero en sistemas computacionales** apasionado por el **software libre**, la **ciberseguridad** y el desarrollo de aplicaciones que faciliten mi día a día. 
 
@@ -26,8 +27,10 @@ Soy un **ingeniero en sistemas computacionales** apasionado por el **software li
 ---
 
 ### 📫 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuperfil/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-rosas-garcia-065520258/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ElingenieroA)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/El_ingeniero_A/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlanRGdev)
 
 ---
 
